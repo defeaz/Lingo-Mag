@@ -7,3 +7,5 @@
     "deploy": "gh-pages -d dist"
   }
 }
+
+npm i -D gh-pages
