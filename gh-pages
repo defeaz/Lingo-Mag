@@ -1,3 +1,9 @@
 bash
 
 npm i -D gh-pages
+
+git add .
+git commit -m "site"
+git push
+npm run deploy
+
